@@ -17,7 +17,7 @@ This workshop provides a brief overview of several useful tools and activities f
 ## **5. Task Management**
 > Useful development tools for productivity and task management
 
-### [Getting Started ⏭️](Setup.md)
+## [Getting Started ⏭️](Setup.md)
 
 
 
