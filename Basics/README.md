@@ -19,6 +19,9 @@ This workshop provides a brief overview of several useful tools and activities f
 
 ### [Getting Started ⏭️](Setup.md)
 
+
+
+
 [^1] The content of this workshop is primarily based on the [Engineering Basics](https://github.com/chrisparnin/EngineeringBasics) workshop by [Dr. Chris Parnin](https://chrisparnin.me).
 
 [^2] Docable was created by [Samim Mirhosseini](https://samim.me/) and Dr. Chris Parnin.
