@@ -11,7 +11,7 @@
 
 ## Understanding Git
 
-What better way to understand git than to check out git itself! This might take a while...(if necessary, try running this locally in Git Bash)
+What better way to understand git than to check out git itself! This will take a while...(if necessary, run this locally)
 
 ```bash|{type:'command', failed_when:'exitCode != 0'}
 git clone https://github.com/git/git
@@ -258,9 +258,9 @@ Now let's push the local repository you created earlier to make it a remote repo
 
 3. Push your changes to GitHub. Verify you can see your updated README.md!
 
-4. On GitHub, edit the README.md (click on the pencil icon in the top right corner of the file) to say "Hello GitHub!". Commit the changes directly on GitHub. Now you have changes in your remote (origin), that are missing on your local copy.
+4. On GitHub, edit the README.md (click on the pencil icon in the top right corner of the file) to add your first and last name under the heading and modify the next line to say "Hello GitHub!". Commit the changes directly on GitHub. Now you have changes in your remote (origin) repository that are missing on your local copy.
 
-5. Run `git pull` locally to verify you now have the updated changes.
+5. Run `git pull` locally. Verify you now have the updated changes.
 
 ```bash|{type:'command', path: 'Basics'}
 git pull
@@ -268,7 +268,7 @@ git pull
 
 6. Invite the instructor (chbrown13) and TA (marnaoty) to be collaborators to your repository (`Settings -> Manage access`).
 
-**7.** This repository is where you will place all the materials from the workshop today. Add your FizzBuzz program screenshots, `workshop.sh` bash script, and `git.txt` from the previous notebooks.
+**7. This repository is where you will place all the materials from the workshop today. Add your FizzBuzz program screenshots, `workshop.sh` bash script, and `git.txt` from the previous notebooks.**
 
 
 ### [Task Management ⏭️](Tasks.md)

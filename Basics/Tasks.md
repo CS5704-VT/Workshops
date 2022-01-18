@@ -25,7 +25,7 @@ Features:
 
 ## 📝 Activity: Create an Issue
 
-Create a new GitHub issue on the workshop repository (**_not_** _your Basics repository_) to report any issues on any of the topics covered in this SE Basics Workshop. This includes any errors or problems you faced, typos, or suggestions for improvements. Please do not create an issue saying there are no issues. Make sure it has a good title and description, an appropriate label, and assign the instructor (chbrown13) to the issue. To report multiple issues, create a task list for each one. 
+Create a new GitHub issue on the [workshop repository](https://github.com/CS5704-VT/Workshops) (**_not_** _your Basics repository_) to report any issues on any of the topics covered in this SE Basics Workshop. This includes any errors you faced, typos, or suggestions for improvements and new modules to add. Please do not create an issue saying there are no issues. Make sure your issue has a good title and description, an appropriate label, and assign the instructor (chbrown13) to the issue. If you encountered multiple problems, create multiple issues for each or add a task list for related items in the same issue using the `[ ]` markdown syntax. 
 
 ## Kanban Boards
 
@@ -64,7 +64,7 @@ On your SE Basics repository, navigate to the Projects tab to create a GitHub Pr
 
 ## Scrum
 
-Scrum is another agile process for managing tasks. The most popular aspect people use is the daily stand-up meeting. In a daily standup, people report the progress and status of their tasks. The idea is that by standing up, you won't try taking too long to talk.
+Scrum is another agile process for managing tasks. The most popular aspect people use is the daily stand-up meeting. In a daily stand-up, people report the progress and status of their tasks. The idea is that by standing up, you won't try taking too long to talk.
 
 The main things covered in a scrum:
 
@@ -74,7 +74,7 @@ The main things covered in a scrum:
 
 ## 📝 Activity: Scrum Meeting
 
-Find 1 or 2 other students in class to complete a standup meeting. You should be standing up together to answer the three questions above about the tasks you added to your Kanban board in the previous activity. If you are not able to do this in class, you may complete the stand-up virtually. In your SE Basics repository README, add the name(s) and email IDs of the students you completed the standup meeting with.
+Find 1 or 2 other students in class to complete a stand-up meeting. You should stand up together to answer the three questions above about the tasks you added to your Kanban board in the previous activity. If you are not able to do this in class, you may complete the stand-up virtually. In your SE Basics repository README, add the name(s) and email IDs of the students you completed the stand-up meeting with.
 
 
 🥳 Congrats! You have completed the CS5704 SE Basics Workshop! You have started to master a great set of foundational skills preparing your for real software engineering work.
