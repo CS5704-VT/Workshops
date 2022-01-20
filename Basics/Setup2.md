@@ -59,9 +59,9 @@ Docable also provides several types of terminals including bash, zsh, and Window
 
 When working on tutorials, be careful to observe which commands are run in which _target terminal_. For example, running the command in the cell below will to create a the file `hello_world` in the `\tmp` directory of terminal **t2**:
 
-    ```bash|{type:'command', target: 't2'}
-    touch /tmp/hello_world
-    ```
+```bash|{type:'command', target: 't2'}
+touch /tmp/hello_world
+```
 
 If a `target` is not specified for a command cell in a multi-target notebook, you can assume the original target will be used by default:
 
