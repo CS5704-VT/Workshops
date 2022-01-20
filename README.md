@@ -1,6 +1,5 @@
 # CS5704 Workshops
-Workshop activities for the CS5704 Software Engineering course at Virginia Tech.
+This repository contains workshops for the CS5704 Software Engineering course at Virginia Tech. These interactive activities will allow students to gain hands-on experience and practice with applicable and real-world software engineering skills and concepts.
 
 
 
-> The majority of these workshops are built and deployed using the [Docable](https://docable.cloud/) educational notebooks system by [Samim Mirhosseini](https://samim.me/).

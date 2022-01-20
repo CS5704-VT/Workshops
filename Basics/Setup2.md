@@ -88,8 +88,8 @@ Run the command `ls \tmp` in each to see that the `/tmp/hello_world` file is ava
 ## Final Thoughts on Workshops
 
 * To receive credit, you will most likely have to submit screenshots or save a pdf of completed notebooks (most browsers have a `Print > Save As PDF` option in the print menu). Each workshop will have specific instructions on what to turn in (📝).
+* The academic integrity policy applies to all workshops. Do not work with another student unless otherwise specified!
 * If you run into any issues with a notebook, please contact the instructor.
-* The academic integrity policy applies to all workshops. Do not work with another student unless otherwise specified.
 * Remember, anything covered in workshops (including the following notebooks) are eligible content to be on the exam!
 
 ### [Programming Languages ⏭️](Coding.md)
