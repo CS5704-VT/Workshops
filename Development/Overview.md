@@ -1,4 +1,4 @@
-# Workshop
+# Coding Environments Workshop
 
 The development environment workshop consists of the following activities:
 
