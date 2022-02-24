@@ -14,7 +14,7 @@ The development environment workshop consists of the following activities:
 ## **4. [Integrated Development Environments](IDEs.md)**
 > An introduction to environments for writing code
 
-## **5. [Code Metrics](Metrics)**
+## **5. [Code Metrics](Metrics.md)**
 > An exploration of tools for calculating various analyses of your code
 
 **Due:** Friday February 25 at 11:59pm
