@@ -54,7 +54,7 @@ _Prerequisites_
 1. Clone the [activity repository](https://github.com/CS5704-VT/BrowserAutomation). Navigate into the project directory and run `npm install` to add all the dependencies.
 2. Run `node duckduckgo.js` to observe the browser automation at work. The browser should automatically search for a keyword.
     * Close the browser when completed, or uncomment the `browser.close();` command to automatically exit.
-3. Browser automation is also useful for testing UIs in different application. Edit the `search.js` file to uncomment the `await` commands on lines 39-40 to emulate the test in an iPhone interface.
+3. Browser automation is also useful for testing UIs in different application. Edit the `duckduckgo.js` file to uncomment the `await` commands on lines 39-40 to emulate the test in an iPhone interface.
 4. Extend the code to perform another action on the website (i.e. another search).
 5. Run the unit tests using `npm test` and inspect the results. Can you fix the failing test cases?
     * In the repository, see `test/search.js`
