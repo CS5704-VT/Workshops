@@ -51,7 +51,7 @@ _Prerequisites_
 * Basic knowledge of Javascript is helpful, but not required
 
 ### Steps
-1. Clone the activity repository. Navigate into the project directory and run `npm install` to add all the dependencies.
+1. Clone the [activity repository](https://github.com/CS5704-VT/BrowserAutomation). Navigate into the project directory and run `npm install` to add all the dependencies.
 2. Run `node duckduckgo.js` to observe the browser automation at work. The browser should automatically search for a keyword.
     * Close the browser when completed, or uncomment the `browser.close();` command to automatically exit.
 3. Browser automation is also useful for testing UIs in different application. Edit the `search.js` file to uncomment the `await` commands on lines 39-40 to emulate the test in an iPhone interface.
