@@ -44,6 +44,8 @@ gcc -Wall -std=c99 -g file.c -o file
 <img src="resources/imgs/debug.jpg" width="375" height="300" />
 </a>
 
+Click the image to access the questions ^
+
 ### 📝 Upload your reponses on Canvas. Due: Friday, March 11 at 11:59pm
 
 > [^1] [An Exploratory Study of Debugging Episodes](https://arxiv.org/pdf/2105.02162.pdf)
