@@ -4,7 +4,7 @@ As software projects become more complex, testing has also become more complex. 
 
 ## Mutation Testing
 
-Mutation testing is a form of whitebox testing that involves modifying the program in small ways. Each chaned version of the code is called a _mutant_, which causes the behavior of the original version to differ from the mutant version, and tests should be able to detect and reject mutants.
+Mutation testing is a form of whitebox testing that involves modifying the program in small ways. Each changed version of the code is called a _mutant_, which causes the behavior of the original version to differ from the mutant version, and tests should be able to detect and reject mutants.
 
 **Mutant operators** are classes of mutations for automatically edit programs. These can differ based on the difficulty of the tests, etc. Examples of mutation operators include:
 * Statement deletion (removing line(s) of code)
@@ -23,11 +23,11 @@ This process is also useful for evaluating tests, as existing test cases should 
 
 **Why Mutation Testing?**
 
-Mutation testing is growing in popularity and has been adopted in the software engineering industry, most notably at companies such as [Facebook/Meta](https://arxiv.org/pdf/2010.13464.pdf)[^1],[Google](https://dl.acm.org/doi/pdf/10.1145/3183519.3183521)[^2], and [Netflix](https://netflix.github.io/dgs/mutations/).
+Mutation testing is growing in popularity and has been adopted in the software engineering industry, most notably at companies such as [Facebook/Meta](https://arxiv.org/pdf/2010.13464.pdf)<sup>1</sup>,[Google](https://dl.acm.org/doi/pdf/10.1145/3183519.3183521)<sup>2</sup>, and [Netflix](https://netflix.github.io/dgs/mutations/)<sup>3</sup>.
 
 ## 📝 Activity
 
-To practice mutation testing, we will look at an application of this process in game form. For this activity, you and your partner will play the mutation testing online game [_Code Defenders_](https://code-defenders.org/)[^3]. Follow the instructions below to get started and complete the basic puzzle tutorials for the game:
+To practice mutation testing, we will look at an application of this process in game form. For this activity, you and your partner will play the mutation testing online game [_Code Defenders_](https://code-defenders.org/)<sup>4</sup>. Follow the instructions below to get started and complete the basic puzzle tutorials for the game:
 
 **Note:** This game will require knowledge of Java and the JUnit testing framework.
 
@@ -38,6 +38,7 @@ To practice mutation testing, we will look at an application of this process in 
 * Both partners should divide playing time to complete the remaining Branch Coverage puzzles.
 * If there is still time left in class, you may continue playing and try to join an ongoing multiplayer battlefield or melee game as an attacker or defender.
 
-[^1] Moritz Beller et al. _"What It Would Take to Use Mutation Testing in Industry—A Study at Facebook"_. 2021
-[^2] Goran Petrovic and Marko Ivankovic. _"State of Mutation Testing at Google"_. 2018
-[^3] Code Defenders was introduced by Jose Miguel Rojas et al. More information is available in [_"Code Defenders: A Mutation Testing Game"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7528958&casa_token=WSVK-2KwDDMAAAAA:8PqV15WVt7ZHSyXR-G7hgTu2IDi2PY2LErCpKSX-1wTx6AuYMHQVp71p8knHZy3oNoGqsUFIuA&tag=1)
+> [1] Moritz Beller et al. _"What It Would Take to Use Mutation Testing in Industry—A Study at Facebook"_. 2021 \
+> [2] Goran Petrovic and Marko Ivankovic. _"State of Mutation Testing at Google"_. 2018 \
+> [3] https://netflix.github.io/dgs/mutations/ \
+> [4] Code Defenders was introduced by Jose Miguel Rojas et al. More information is available in [_"Code Defenders: A Mutation Testing Game"_](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7528958&casa_token=WSVK-2KwDDMAAAAA:8PqV15WVt7ZHSyXR-G7hgTu2IDi2PY2LErCpKSX-1wTx6AuYMHQVp71p8knHZy3oNoGqsUFIuA&tag=1)
