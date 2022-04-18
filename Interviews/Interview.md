@@ -9,6 +9,7 @@ Complete the following activities for the workshop. Make sure to read all of the
    1. For in-person, submit a photo of a whiteboard or paper with the problem solution
    2. For virtual, you will need to submit a Google Doc link with the problem solution
 5. Switch places
+6. **[Optional]:** Check out this [research survey](https://docs.google.com/forms/d/e/1FAIpQLSe7L3EqSmjMyruDkq5sUNjsjNeQqMJIHUjwOoKK8p3OFCIFrA/viewform) that seeks to understand how candidates prepare for technical interviews!
 
 ### Round 1
 
