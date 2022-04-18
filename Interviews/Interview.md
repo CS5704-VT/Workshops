@@ -5,7 +5,7 @@ Complete the following activities for the workshop. Make sure to read all of the
 1. Find a partner
 2. There will be two rounds of mock interviews. Each round should last approximately 30 minutes.
 3. After each round, there will be a post-interview survey and assessment for each student to complete
-4. You must complete the mock interview in a non-programming environment either in-person or virtually over Zoom and submit your program on Canvas.
+4. You must complete the mock interview in a non-programming environment either in-person or virtually over Zoom and submit your program [on Canvas](https://canvas.vt.edu/courses/145256/assignments/1384357).
    1. For in-person, submit a photo of a whiteboard or paper with the problem solution
    2. For virtual, you will need to submit a Google Doc link with the problem solution
 5. Switch places
@@ -16,7 +16,7 @@ The student who's last name comes first alphabetically is the interviewer, the o
 
 The interviewer will select a problem for the candidate to complete from [here](https://seanprashad.com/leetcode-patterns/). The problem should not be known by your partner ahead of time and they may use the programming language of their choice or pseudocode. Verbally explain the coding question to the candidate, clarifying any questions about the problem to the best of your knowledge or based on the solution. 
 
-Then, the partner acting as a candidate should begin coding. This should be treated as a technical interview, and you _should_ try to come up with the most optimal solution. Additionally, candiates should perform a think aloud during problem-solving to describe their approach. This is an important part of a technical interview. Some questions you should answer during coding can include:
+Then, the partner acting as a candidate should begin coding. Additionally, candiates should perform a think aloud during problem-solving to describe their approach. This is an important part of a technical interview. Some questions you should answer during coding can include:
 
     What is your approach?
     What are you currently thinking about?
