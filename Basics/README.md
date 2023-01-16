@@ -1,5 +1,7 @@
 # Overview
 
+> ## This workshop has been deprecated for a newer version on [https://docable.cloud/](https://docable.cloud/).
+> 
 This workshop provides a brief overview of several useful tools and activities for supporting software development work and skills to help you be productive as a software engineer.[^1] These interactive tutorials will be based on [Docable](https://docable.cloud/), an educational notebook system that provides virtual environments for computing learning activities.[^2] The goal of this workshop is for you to learn and practice a set of relevant tools and processes for software engineering that will also be useful for this course. Please read the instructions for each section carefully for details on how to complete and submit your work. 
 
 ### **1. Getting Started**
