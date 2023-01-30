@@ -1,0 +1,1 @@
+This workshop will provide an overview of requirements and design concepts discussed in class. Please read the instructions carefully. You will need to upload your responses as a .txt or .pdf file, or input your responses directly, on Canvas to submit for Homework 2.
