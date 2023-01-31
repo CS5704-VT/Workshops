@@ -4,7 +4,7 @@ This workshop will provide an overview of requirements and design concepts discu
 
 ## Requirements and Design
 
-Read through the example bot and application project ideas. Select one that you might want to work on *__other than__* the Standup Bot discussed in class. Complete the following activities for both of the proposed programs.
+Read through the example bot and application [project ideas](https://github.com/CS5704-VT/Course/blob/main/Project/IDEAS.md). Select one that you might want to work on *__other than__* the Standup Bot discussed in class. Complete the following activities for both of the proposed programs.
 
 1. Describe the problem:
         What is the problem each problem is trying to solve?
