@@ -7,7 +7,7 @@ This workshop will provide an overview of requirements and design concepts discu
 Read through the example bot and application [project ideas](https://github.com/CS5704-VT/Course/blob/main/Project/IDEAS.md). Select one that you might want to work on *__other than__* the Standup Bot discussed in class (you are not committing to a project idea). Complete the following activities for the proposed programs.
 
 1. Describe the problem:
-        What is the problem each problem is trying to solve?
+        What is the problem the example is trying to solve?
         Why is it a problem worth solving? Or why not?
 2. Provide an example of three hypothetical non-functional requirements for this system.
 3. Think of a specific task required to complete this project. Estimate the amount of effort to complete this task using function points (using the values [here](https://www.scrumpoker-online.org/en/room/44441241/scrum-poker)). Briefly explain your answer.
