@@ -9,7 +9,6 @@ Complete the following activities for the workshop. Make sure to read all of the
    1. For virtual, submit audio and video recording of your think-aloud and screenshare of solving the problem on a whiteboard or non-IDE environment
    2. For in-person, you will need to submit video recordings that contain your audible speech and a visible representation of your code. Submit your problem solution (picture or screenshot) with your submission.
 5. Switch places
-6. **[Optional]:** Check out this [research survey](https://docs.google.com/forms/d/e/1FAIpQLSe7L3EqSmjMyruDkq5sUNjsjNeQqMJIHUjwOoKK8p3OFCIFrA/viewform) that seeks to understand how candidates prepare for technical interviews!
 
 ### Round 1
 
