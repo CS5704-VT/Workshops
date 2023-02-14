@@ -29,8 +29,8 @@ Interviewers should keep track of how long candidates spend on the problem (_use
 
 After the 30 minutes is up, interviewers should share their feedback with the candidate. Then, take the time to complete these surveys based on your specific role for this round:
 
-* [Interviewer, Round 1](https://forms.gle/t1v8dxaThiSihywPA)
-* [Candidate, Round 1](https://forms.gle/sxKdxf3naxqfoBdV8)
+* [Interviewer, Round 1](https://forms.gle/2bJovCSE1x2sxMhw7)
+* [Candidate, Round 1](https://forms.gle/oQvvYa8TBKRZFnhPA)
 
 ### Round 2
 
@@ -40,8 +40,8 @@ Now, the interviewer and candidate should switch roles. Repeat the steps above w
 
 After 30 minutes is up, interviewers should provide feedback to the candidate on their programming and think aloud performance. Then, complete the following surveys for your role in Round 2:
 
-* [Interviewer, Round 2](https://forms.gle/iR6R2uvhX11ELbW98)
-* [Candidate, Round 2](https://forms.gle/2mFxhp2qGkeUuQmr6)
+* [Interviewer, Round 2](https://forms.gle/tnqJFS89uaMmXzbh8)
+* [Candidate, Round 2](https://forms.gle/rRief5fCKfUoD3cdA)
 
 ### 📝 Complete the assessment forms and upload your recordings [to Canvas](https://canvas.vt.edu/courses/165661/assignments/1738079/). Due: Friday, March 3 at 11:59pm
 
