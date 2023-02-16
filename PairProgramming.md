@@ -11,7 +11,7 @@ For the following activity, find a partner in class with shared knowledge of a p
 
 > **Roman Numerals**
 > 
-> Roman numerals are depicted by using seven different symbols: `I, V, X, L, C, D and M` to represent seven different numerical values: `1, 5, 10, 50, 100, 500, 1000` (For example, the most recent Super Bowl LVI was Super Bowl 56). Complete the following for this activity:
+> Roman numerals are depicted by using seven different symbols: `I, V, X, L, C, D and M` to represent seven different numerical values: `1, 5, 10, 50, 100, 500, 1000` (For example, the most recent Super Bowl LVII was Super Bowl 57). Complete the following for this activity:
 > * One student will be the driver while the other navigates to write a function that converts an [integer to a Roman Numeral](https://leetcode.com/problems/integer-to-roman/). 
 > * Then, if time allows, students should switch roles to develop a function that converts [Roman numerals to integers](https://leetcode.com/problems/roman-to-integer/). 
 > 
