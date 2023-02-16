@@ -7,7 +7,7 @@ Pair programming is a common practice in development environments where two soft
 
 ## 📝 Activity
 
-For the following activity, find a partner in class (or virtually if you are not in class) with shared knowledge of a programming language. Each student must complete a designated part of the program below _on their own machine_, while the partner **_actively_** participates in the coding.
+For the following activity, find a partner in class with shared knowledge of a programming language. Each student must complete a designated part of the program below _on their own machine_, while the partner **_actively_** participates in the coding.
 
 > **Roman Numerals**
 > 
