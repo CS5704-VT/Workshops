@@ -1,6 +1,6 @@
 # Project Metrics
 
-It has been approximately a 2-week sprint since the lightning talk presentations for the project. For the following activity, you will provide an update on your project based on the of metrics to analyze code and team productivity discussed in the lecture so far. Use your project GitHub repository or code base to answer the questions below (for #1). If you do not yet have a repository set up for your, please explain why you haven't started yet and select a random public project on GitHub.
+It has been approximately a 2-week sprint since the lightning talk presentations for the project. For the following activity, you will provide an update on your project based on the of metrics to analyze code and team productivity discussed in the lecture so far. Use your project GitHub repository or code base to answer the questions below. If you do not yet have a repository set up for your, please explain why you haven't started yet and select a random public project on GitHub  (for #10).
 
 ## [Code]
 
