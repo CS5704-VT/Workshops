@@ -9,6 +9,7 @@ Complete the following activities for the workshop. Make sure to read all of the
    1. For virtual, submit audio and video recording of your think-aloud and screenshare of solving the problem on a whiteboard or non-IDE environment
    2. For in-person, you will need to submit video recordings that contain your audible speech and a visible representation of your code. Submit your problem solution (picture or screenshot) with your submission.
 5. Switch places
+   1. Each student must submit a recording of themselves completing the coding portion of the interview as the candidate.
 
 ### Round 1
 
