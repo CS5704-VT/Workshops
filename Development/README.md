@@ -1,3 +1,5 @@
+> ## This workshop has been deprecated for a newer version on [https://docable.cloud/](https://docable.cloud/).
+---
 # Overview
 
 The development environment workshop provides hands-on experience for students to learn and practice a set of relevant tools and processes used for implementing and analyzing software in industry. Please read all of the instructions for each notebook carefully for information on how to complete the assignment and details on what to submit. 
